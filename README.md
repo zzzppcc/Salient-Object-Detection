@@ -29,5 +29,5 @@ cd src
 python model_duibi.py
 ```
 
-#### 统计的数据
+#### 统计的数据 (Ours-R is CFICPNet)
 ![img.png](picture/img.png)
